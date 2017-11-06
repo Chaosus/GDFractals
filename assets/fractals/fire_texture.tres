@@ -1,0 +1,10 @@
+[gd_resource type="GradientTexture" load_steps=2 format=2]
+
+[ext_resource path="res://fractals/fire_gradient.tres" type="Gradient" id=1]
+
+
+[resource]
+
+gradient = ExtResource( 1 )
+width = 2048
+
